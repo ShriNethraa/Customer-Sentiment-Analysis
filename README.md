@@ -6,8 +6,11 @@ To analyze Amazon product reviews using Natural Language Processing (NLP) techni
 
 ## Process:
 **1. Data Preparation:** Collected and cleaned Amazon product reviews for text analysis.
+
 **2. Sentiment Analysis:** Used the tidytext library to quantify positive and negative sentiments in customer feedback.
+
 **3. Visualization:** Created word clouds to highlight frequently mentioned words. Used ggplot2 to visualize sentiment distribution and trends by product rating.
+
 **4. Categorization:** Classified reviews into sentiment quadrants to illustrate overall customer satisfaction levels.
 
 ## Result:
